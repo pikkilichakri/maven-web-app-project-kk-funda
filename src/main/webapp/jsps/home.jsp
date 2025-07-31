@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK DevOps</h1>
+<h1 align="center">Welcome to omnamahashivaya</h1>
 <h1 align="center"> omnamahashiavaya hara hara mahadeva</h1>
 <hr>
 <br>
